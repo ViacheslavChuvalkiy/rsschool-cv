@@ -37,6 +37,7 @@ I have had more than three years of experience in 1c programming that get me som
    - Administrative and technical support of the company
 
 >## **Senior manager of a network of gambling establishments**
+>>>### Laguna-2004 LLC
 09/2009-12/2016 Kyiv, Ukraine 
 
 * Achievements / Objectives
