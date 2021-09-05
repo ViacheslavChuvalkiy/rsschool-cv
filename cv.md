@@ -1,6 +1,16 @@
-[1]: images/avatar.png "Viacheslav Chuvalskyi"
+# Viacheslav Chuvalskyi
+
+![](images/avatar.JPG)
+
+# Contacts
 > ### slavachuval@gmail.com 
 > ### +38 (063) 431-25-87
+>
+
+# Briefly About Myself:
+It has become apparent in recent years that future is under IT technologies and I would like to be a part of them. On my opinion work in IT field is a challenge, because you should always be in touch with new technologies, trends and development of marketplace. Therefore, it’s allowed you to develop yourself and set a new goals every year, it cannot be the same like it was in previous years.
+ 
+I have had more than three years of experience in 1c programming that get me some understandable rules of programming and acceptable methods for solving tasks and goals.  My major goal for near future is to realize myself in Frond-End Developing. I would like to get more experience and knowledge in this area for getting more professional programmer.
 >
 # Work experience
 >## **1С Programmer**
