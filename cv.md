@@ -23,7 +23,7 @@ I have had more than three years of experience in 1c programming that get me som
    - Setting up and maintaining 1C data exchanges with the server
    - Development and implementation of new functionality in various 1C configurations
    - User support
->
+
 >## **Travel Agency Director**
 >### PE Chuvalskyi V.
 11/2015-02/2017 Kyiv, Ukraine
@@ -35,7 +35,6 @@ I have had more than three years of experience in 1c programming that get me som
    - Financial management of the company
    - Administrative and technical support of the company
 
->
 >## **Senior manager of a network of gambling establishments**
 09/2009-12/2016 Kyiv, Ukraine 
 
@@ -43,7 +42,6 @@ I have had more than three years of experience in 1c programming that get me som
    - General management of the network of establishments
    - Recruiting and management of personnel
 
->
 >## **Senior Operator of the gambling machine hall**
 >>>### Laguna-2004 LLC
 06/2006-06/2009 Kyiv, Ukraine
@@ -54,7 +52,6 @@ I have had more than three years of experience in 1c programming that get me som
    - Organization of personnel management  
    - Inspection, maintenance and repair of slot machines 
 
->>
 >## **Operator of the gambling machine hall**
 >>>### MDK LLC
 04/2004-10/2006 Kyiv, Ukraine
@@ -64,7 +61,6 @@ I have had more than three years of experience in 1c programming that get me som
    - Communication with customers  
    - Inspection, maintenance and repair of slot machines  
 
->>
 >## **System Administrator**
 >>>### Agro-Center LLC
 09/2002-02/2003 Kyiv, Ukraine 
@@ -73,8 +69,6 @@ I have had more than three years of experience in 1c programming that get me som
    - Setting up computers and networks
    - Testing and modernization of computers and programs  
 
->
->
 # Extra skills
   
    * Сonfident knowledge
