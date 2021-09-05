@@ -12,20 +12,20 @@ It has become apparent in recent years that future is under IT technologies and 
  
 I have had more than three years of experience in 1c programming that get me some understandable rules of programming and acceptable methods for solving tasks and goals.  My major goal for near future is to realize myself in Frond-End Developing. I would like to get more experience and knowledge in this area for getting more professional programmer.
 >
->
+
 # Work experience
 
 >## **1С Programmer**
->>### PE Sartinskyi A.
+>### PE Sartinskyi A.
 01/2018- present  Kyiv, Ukraine
 
 * Achievements / Objectives
    - Setting up and maintaining 1C data exchanges with the server
    - Development and implementation of new functionality in various 1C configurations
    - User support
->>
+>
 >## **Travel Agency Director**
->>###PE Chuvalskyi V.
+>### PE Chuvalskyi V.
 11/2015-02/2017 Kyiv, Ukraine
 
 * Achievements / Objectives
@@ -35,7 +35,7 @@ I have had more than three years of experience in 1c programming that get me som
    - Financial management of the company
    - Administrative and technical support of the company
 
->>
+>
 >## **Senior manager of a network of gambling establishments**
 09/2009-12/2016 Kyiv, Ukraine 
 
@@ -43,7 +43,7 @@ I have had more than three years of experience in 1c programming that get me som
    - General management of the network of establishments
    - Recruiting and management of personnel
 
->>
+>
 >## **Senior Operator of the gambling machine hall**
 >>>### Laguna-2004 LLC
 06/2006-06/2009 Kyiv, Ukraine
