@@ -24,6 +24,7 @@ I have had more than three years of experience in 1c programming that get me som
    - Development and implementation of new functionality in various 1C configurations
    - User support
 
+
 >## **Travel Agency Director**
 >### PE Chuvalskyi V.
 11/2015-02/2017 Kyiv, Ukraine
